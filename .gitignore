@@ -3,3 +3,9 @@
 
 # Ignore forum content directory
 forum_content/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python cache directories
+__pycache__/
